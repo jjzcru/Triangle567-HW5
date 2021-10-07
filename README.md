@@ -1,5 +1,5 @@
 # Static Code Analysis
-[![build status of master](https://github.com/jjzcru/Triangle567-HW5.svg?branch=main)](https://travis-ci.org/jjzcru/Triangle567-HW5)
+[![build status of master](https://github.com/jjzcru/Triangle567-HW5.svg?branch=master)](https://travis-ci.org/jjzcru/Triangle567-HW5)
 
 ## Author
 Jose J. Cruz
