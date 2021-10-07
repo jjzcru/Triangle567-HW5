@@ -31,6 +31,9 @@ I use [Pylint](https://pylint.org/)
 Before
 ![Pylint Before](images/pylint-before.png)
 
+After 
+![Pylint After](images/pylint-after.png)
+
 ## The name and output of the code coverage tool you used
 I use [Coverage.py](https://coverage.readthedocs.io/en/6.0/). 
 
@@ -41,3 +44,6 @@ _In my defense the code already had 100% coverage before the assigment you can v
 ### Output
 Before
 ![Coverage.py Before](images/coverage-before.png)
+
+After
+![Coverage.py After](images/coverage-after.png)
